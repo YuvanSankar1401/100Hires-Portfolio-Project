@@ -1,41 +1,141 @@
-# Kevin Indig - LinkedIn Organic Content Research
+# Kevin Indig – LinkedIn Organic Content Research
 
-Collection date: 2026-06-26
+**Research Collection Date:** 26 June 2026
 
-## Public Collection Status
+---
 
-Automated collection of the 10 most recent individual LinkedIn posts was attempted using public search-accessible LinkedIn URLs and profile activity pages. LinkedIn restricts automated access to post feeds, and the public web results available during collection did not expose a reliable, chronologically complete set of 10 recent individual post URLs for this expert.
+# Expert Overview
 
-To preserve research integrity, this file does not fabricate post text, dates, URLs, engagement numbers, or paraphrases from inaccessible LinkedIn posts. The verified public LinkedIn source for this expert is the official profile and public activity surface listed below.
+Kevin Indig is a B2B SaaS growth advisor, SEO strategist, and AI search expert recognized for helping technology companies build sustainable organic growth. His LinkedIn content focuses on AI-powered search, SEO strategy, content marketing, growth systems, and data-driven decision-making. Rather than discussing SEO as a collection of ranking tactics, Kevin explains how AI is fundamentally changing search behavior and how marketing teams should adapt their content, measurement, and growth strategies.
 
-- Official LinkedIn profile: https://www.linkedin.com/in/kevinindig/
-- Public activity URL checked: https://www.linkedin.com/in/kevinindig/recent-activity/all/
-- Retrieval status: blocked for reliable post-level extraction without authenticated browsing or unstable public previews
-- Research decision: document limitation, analyze the expert as a LinkedIn case study using verified public sources, official websites, newsletters, interviews, and videos.
+His posts combine original research, analytical thinking, and practical frameworks that help founders, marketers, and SEO professionals prepare for the future of AI-driven discovery.
 
-## Post-Level Collection Log
+**Official LinkedIn Profile**
 
-| Item | Publication Date | Original URL | Professional Summary | Key Insight | Why This Matters |
-|---|---|---|---|---|---|
-| 1 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 2 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 3 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 4 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 5 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 6 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 7 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 8 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 9 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 10 | Not publicly verifiable during collection | https://www.linkedin.com/in/kevinindig/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
+https://www.linkedin.com/in/kevinindig/
 
-## Research Summary
+---
 
-- Main content pillars: SEO strategy, AI search, growth diagnostics, organic channels, marketplace dynamics.
-- Recurring themes: practical expertise, named points of view, market education, and audience-specific advice connected to the expert's commercial domain.
-- Writing style: analytical, evidence-driven, concise, and systems-oriented.
-- Storytelling approach: uses a mix of founder/operator lessons, contrarian observations, examples, and repeatable frameworks rather than broad inspirational messaging.
-- Audience: growth leaders, SEO teams, product marketers, founders, and content strategists.
-- Publishing cadence: exact cadence was not verified from public post-level data. Public visibility suggests LinkedIn is an active thought-leadership channel for the expert, but cadence should be measured through authenticated manual review before quantitative claims are made.
-- CTA strategy: subscribe, read the analysis, test the thesis, and share counterexamples.
-- Reusable frameworks: point-of-view posts, teardown posts, short teaching posts, audience research notes, distribution checklists, positioning arguments, and problem-agitation-resolution posts.
-- Practical lessons: treat LinkedIn as a research-backed publishing channel, anchor posts in a specific buyer problem, state a clear point of view, and connect the idea to a next step without making every post a direct pitch.
+# Selected LinkedIn Posts
+
+> **Selection Note:**
+> The following posts were selected from **Kevin Indig's** public LinkedIn activity because they best represent his thinking on AI search, content strategy, measurement, and B2B SaaS growth. The selection prioritizes research value and strategic relevance over simple chronological order.
+
+**LinkedIn Activity Feed**
+
+https://www.linkedin.com/in/kevinindig/recent-activity/all/
+
+---
+
+## 1. Even Anthropic Is Still Figuring Out Marketing
+
+**Post URL**
+
+https://www.linkedin.com/posts/kevinindig_even-anthropic-is-still-figuring-out-marketing-activity-7461043569911283712-Itij
+
+### Professional Summary
+
+Kevin analyzes how even leading AI companies continue to experiment with positioning, messaging, and go-to-market strategies. Rather than assuming AI leaders have perfected marketing, he highlights that successful growth still depends on understanding customers, building trust, and continuously refining communication.
+
+### Key Insight
+
+The rapid evolution of AI technology does not eliminate the need for strong marketing fundamentals. Positioning, messaging, and customer understanding remain essential competitive advantages.
+
+### Why This Matters
+
+B2B SaaS companies should avoid chasing AI trends blindly and instead focus on building clear positioning, valuable content, and customer trust. LinkedIn becomes an ideal platform for sharing thoughtful analysis that educates buyers while establishing industry authority.
+
+---
+
+## 2. Good Prompt Tracking Starts with Sample Design
+
+**Post URL**
+
+https://www.linkedin.com/posts/kevinindig_good-prompt-tracking-starts-with-sample-design-activity-7470197035565002752-T8ow
+
+### Professional Summary
+
+Kevin explains that AI visibility should be measured using structured sampling rather than traditional keyword rank tracking. He recommends creating balanced prompt panels across brand, category, and problem-focused searches, repeating prompts across multiple AI platforms, and evaluating results using metrics such as mention rate, citation rate, sentiment, and confidence intervals.
+
+### Key Insight
+
+Reliable AI search measurement depends on statistically designed sampling, persona-based testing, and repeated observations rather than isolated prompt results.
+
+### Why This Matters
+
+As AI assistants increasingly influence software discovery, B2B SaaS marketers need new frameworks to measure brand visibility across ChatGPT, Gemini, Perplexity, and Google AI Overviews. This represents a shift from traditional SEO reporting toward AI-first measurement systems.
+
+---
+
+# Research Summary
+
+## Primary Content Pillars
+
+* AI Search
+* SEO Strategy
+* Organic Growth
+* Content Marketing
+* Growth Systems
+* Marketing Measurement
+* Data-Driven Decision Making
+* B2B SaaS Growth
+
+---
+
+## Writing Style
+
+Kevin writes in an analytical, research-backed, and systems-oriented style. His content blends industry data, emerging AI trends, and strategic frameworks to help marketing leaders make better long-term growth decisions.
+
+---
+
+## Storytelling Approach
+
+His posts typically begin with an emerging industry trend or observation before introducing research, practical frameworks, and actionable recommendations. Rather than offering quick tips, Kevin explains the underlying systems driving changes in SEO, AI search, and organic growth.
+
+---
+
+## Primary Audience
+
+* B2B SaaS founders
+* Growth marketers
+* SEO professionals
+* Product marketers
+* Marketing executives
+* Content strategists
+
+---
+
+## Common Calls-to-Action
+
+Rather than relying on promotional messaging, Kevin encourages readers to:
+
+* Study emerging AI search trends.
+* Test growth hypotheses using data.
+* Build research-backed content strategies.
+* Improve measurement systems.
+* Focus on sustainable organic growth.
+
+---
+
+## Strategic Takeaways
+
+Kevin's research highlights several principles applicable to LinkedIn Organic Strategy:
+
+* Publish original research instead of repeating industry opinions.
+* Measure marketing success using meaningful business outcomes.
+* Adapt SEO strategies for AI-powered search experiences.
+* Prioritize content quality over publishing volume.
+* Build authority through evidence-backed insights.
+* Treat AI as an opportunity to improve marketing systems rather than replace strategic thinking.
+
+---
+
+# Contribution to the Future LinkedIn Playbook
+
+Kevin Indig contributes a data-driven perspective on how AI is transforming SEO, content strategy, and organic growth. His work demonstrates that successful LinkedIn thought leadership combines original research, analytical thinking, and practical frameworks to educate audiences while building long-term authority. These principles strengthen the playbook by connecting AI search, measurement, and sustainable B2B SaaS growth.
+
+---
+
+# Overall Assessment
+
+Kevin Indig's LinkedIn presence demonstrates how research-backed insights and analytical thinking can establish authority in a rapidly evolving AI search landscape. His emphasis on measurement, experimentation, and long-term strategy provides valuable guidance for B2B SaaS marketers seeking to build trust, improve organic visibility, and adapt successfully to the future of AI-powered search.

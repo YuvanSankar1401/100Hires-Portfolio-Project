@@ -1,12 +1,25 @@
-# Justin Welsh - Blogs
+# Justin Welsh – Blogs
 
-Collection date: 2026-06-26
+**Collection Date:** 26 June 2026
 
-Only verified public resources are included. Publication dates are marked as not stated when the source page or public metadata did not expose a reliable date.
+Only verified public resources are included.
 
-## The Saturday Solopreneur resources
+---
 
-- URL: https://www.justinwelsh.me/
-- Publication Date: Not stated
-- Why this resource is valuable: Primary official hub for Welsh's essays, products, and audience-building philosophy.
-- Key Insight: Strong creator businesses are built on repeatable systems, clear offers, and owned distribution.
+## 1. Justin Welsh – The Saturday Solopreneur
+
+**URL**
+
+https://www.justinwelsh.me/
+
+**Publication Date**
+
+Ongoing (Official website)
+
+### Why This Resource Is Valuable
+
+Justin Welsh's official website is the central hub for **The Saturday Solopreneur** newsletter, articles, digital products, and educational resources on audience building, personal branding, LinkedIn content, and one-person businesses. Through practical essays and frameworks, Justin shares proven systems for creating content consistently, building an owned audience, and turning expertise into sustainable revenue.
+
+### Key Insight
+
+Successful creator-led businesses are built on repeatable systems rather than constant hustle. By consistently publishing valuable content, developing clear offers, and converting social media attention into owned assets like newsletters and email lists, professionals can build long-term authority and sustainable business growth independent of platform algorithms.

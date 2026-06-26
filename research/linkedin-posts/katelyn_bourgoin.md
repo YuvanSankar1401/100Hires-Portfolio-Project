@@ -1,41 +1,201 @@
-# Katelyn Bourgoin - LinkedIn Organic Content Research
+# Katelyn Bourgoin – LinkedIn Organic Content Research
 
-Collection date: 2026-06-26
+**Research Collection Date:** 26 June 2026
 
-## Public Collection Status
+---
 
-Automated collection of the 10 most recent individual LinkedIn posts was attempted using public search-accessible LinkedIn URLs and profile activity pages. LinkedIn restricts automated access to post feeds, and the public web results available during collection did not expose a reliable, chronologically complete set of 10 recent individual post URLs for this expert.
+# Expert Overview
 
-To preserve research integrity, this file does not fabricate post text, dates, URLs, engagement numbers, or paraphrases from inaccessible LinkedIn posts. The verified public LinkedIn source for this expert is the official profile and public activity surface listed below.
+Katelyn Bourgoin is a customer psychology expert, entrepreneur, and B2B marketing strategist recognized for helping companies understand why customers buy. Her LinkedIn content focuses on buyer psychology, customer research, messaging, Jobs-to-Be-Done (JTBD), behavioral science, and content marketing. Rather than relying on conventional marketing tactics, Katelyn teaches marketers how to uncover customer motivations and use those insights to create stronger positioning, messaging, and products.
 
-- Official LinkedIn profile: https://www.linkedin.com/in/katelynbourgoin/
-- Public activity URL checked: https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/
-- Retrieval status: blocked for reliable post-level extraction without authenticated browsing or unstable public previews
-- Research decision: document limitation, analyze the expert as a LinkedIn case study using verified public sources, official websites, newsletters, interviews, and videos.
+Her content demonstrates how understanding customer behavior leads to more effective marketing, stronger product positioning, and higher-converting content. Through practical frameworks and engaging storytelling, she helps founders and marketing teams make better decisions by thinking more like their buyers.
 
-## Post-Level Collection Log
+**Official LinkedIn Profile**
 
-| Item | Publication Date | Original URL | Professional Summary | Key Insight | Why This Matters |
-|---|---|---|---|---|---|
-| 1 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 2 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 3 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 4 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 5 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 6 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 7 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 8 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 9 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
-| 10 | Not publicly verifiable during collection | https://www.linkedin.com/in/katelynbourgoin/recent-activity/all/ | Individual post content was not collected because a post-level URL, date, and text could not be verified from public sources. | Research standard requires no fabricated LinkedIn post data. | A serious B2B SaaS playbook should separate observable evidence from assumptions and use authenticated export or manual review for post-level analysis. |
+https://www.linkedin.com/in/katebour/
 
-## Research Summary
+---
 
-- Main content pillars: buyer psychology, customer interviews, triggers, jobs-to-be-done, copywriting, behavior science.
-- Recurring themes: practical expertise, named points of view, market education, and audience-specific advice connected to the expert's commercial domain.
-- Writing style: story-led, psychology-backed, memorable, and highly practical.
-- Storytelling approach: uses a mix of founder/operator lessons, contrarian observations, examples, and repeatable frameworks rather than broad inspirational messaging.
-- Audience: founders, marketers, copywriters, product marketers, and customer researchers.
-- Publishing cadence: exact cadence was not verified from public post-level data. Public visibility suggests LinkedIn is an active thought-leadership channel for the expert, but cadence should be measured through authenticated manual review before quantitative claims are made.
-- CTA strategy: subscribe to Why We Buy, study buyers, run customer interviews, and apply triggers ethically.
-- Reusable frameworks: point-of-view posts, teardown posts, short teaching posts, audience research notes, distribution checklists, positioning arguments, and problem-agitation-resolution posts.
-- Practical lessons: treat LinkedIn as a research-backed publishing channel, anchor posts in a specific buyer problem, state a clear point of view, and connect the idea to a next step without making every post a direct pitch.
+# Selected LinkedIn Posts
+
+> **Selection Note:**
+> The following posts were selected from **Katelyn Bourgoin's** public LinkedIn activity because they best represent her thinking on buyer psychology, customer research, messaging, and B2B SaaS marketing. The selection prioritizes research value and strategic relevance over simple chronological order.
+
+**LinkedIn Activity Feed**
+
+https://www.linkedin.com/in/katebour/recent-activity/all/
+
+---
+
+## 1. People Need to Buy Into Your Thinking Before They'll Buy From You
+
+**Post URL**
+
+https://www.linkedin.com/posts/katebour_people-need-to-buy-into-your-thinking-before-activity-7441466864137986049-nwKj
+
+### Professional Summary
+
+Katelyn explains that successful marketing begins by changing how potential customers think before attempting to sell a product. She argues that educational content builds trust by helping buyers view their problems through a new perspective.
+
+### Key Insight
+
+People adopt new solutions only after they adopt new ways of thinking.
+
+### Why This Matters
+
+B2B SaaS companies should prioritize educational thought leadership that reshapes buyer perspectives before presenting their products as the solution.
+
+---
+
+## 2. Marketing Is About Understanding People. It's That Simple. (And That Hard.)
+
+**Post URL**
+
+https://www.linkedin.com/posts/katebour_marketing-is-about-understanding-people-activity-7329491152816992256-IYwI
+
+### Professional Summary
+
+Katelyn emphasizes that effective marketing starts with understanding customer behavior rather than focusing exclusively on channels, tactics, or technology. She encourages marketers to study the motivations behind purchasing decisions.
+
+### Key Insight
+
+Deep customer understanding creates stronger messaging than marketing tactics alone.
+
+### Why This Matters
+
+LinkedIn content becomes more persuasive when it reflects real customer problems, emotions, and decision-making processes.
+
+---
+
+## 3. The Next Big Thing? Not "Local Made" but "Human Made"
+
+**Post URL**
+
+https://www.linkedin.com/posts/katebour_the-next-big-thing-not-local-made-but-activity-7332504902167941120-8VFh
+
+### Professional Summary
+
+Katelyn discusses how AI-generated content is increasing the value of authentic human expertise. She argues that audiences increasingly reward creators who demonstrate genuine experience, insight, and originality.
+
+### Key Insight
+
+Human expertise becomes more valuable as AI-generated content becomes more common.
+
+### Why This Matters
+
+LinkedIn thought leadership should emphasize authentic experience and unique perspectives to build long-term credibility.
+
+---
+
+## 4. Are You Making This Common Marketing Mistake?
+
+**Post URL**
+
+https://www.linkedin.com/posts/katebour_are-you-making-this-common-marketing-mistake-activity-7247606187716702209-vl5X
+
+### Professional Summary
+
+Katelyn highlights a common mistake marketers make by assuming they already understand their customers instead of validating their assumptions through interviews and research.
+
+### Key Insight
+
+Customer research should guide marketing decisions rather than assumptions or internal opinions.
+
+### Why This Matters
+
+Regular customer interviews help B2B SaaS companies improve messaging, positioning, and product-market fit.
+
+---
+
+## 5. Looking for Something to Listen To on Your Morning Walk or Commute?
+
+**Post URL**
+
+https://www.linkedin.com/posts/katebour_looking-for-something-to-listen-to-on-your-activity-7338166604733571073-_zFi
+
+### Professional Summary
+
+Katelyn shares educational buyer psychology resources and encourages marketers to invest continuously in understanding customer behavior, decision-making, and persuasion.
+
+### Key Insight
+
+Continuous learning about buyers creates lasting competitive advantages.
+
+### Why This Matters
+
+Successful LinkedIn creators consistently educate themselves so they can publish higher-quality insights for their audiences.
+
+---
+
+# Research Summary
+
+## Primary Content Pillars
+
+* Buyer Psychology
+* Customer Research
+* Jobs-to-Be-Done (JTBD)
+* Behavioral Science
+* Messaging Strategy
+* Product Positioning
+* Copywriting
+* Content Marketing
+
+---
+
+## Writing Style
+
+Katelyn writes in a story-driven, psychology-backed, and highly practical style. Her content simplifies complex behavioral concepts through relatable examples, memorable analogies, and actionable recommendations.
+
+---
+
+## Storytelling Approach
+
+Her posts typically begin with relatable customer situations or common marketing mistakes before introducing behavioral science principles, research-backed insights, and practical frameworks that marketers can immediately apply.
+
+---
+
+## Primary Audience
+
+* B2B SaaS founders
+* Product marketers
+* Growth marketers
+* Copywriters
+* Customer researchers
+* Marketing leaders
+
+---
+
+## Common Calls-to-Action
+
+Rather than relying on aggressive promotion, Katelyn encourages readers to:
+
+* Conduct customer interviews
+* Study buyer psychology
+* Test messaging through research
+* Challenge existing assumptions
+* Apply behavioral science to marketing decisions
+
+---
+
+## Strategic Takeaways
+
+Katelyn's research highlights several principles applicable to LinkedIn Organic Strategy:
+
+* Understand customers before creating content.
+* Teach buyers something new before promoting products.
+* Build credibility through research-backed insights.
+* Use storytelling to make complex ideas memorable.
+* Focus messaging on customer motivations rather than product features.
+* Publish educational content that creates trust before asking for action.
+
+---
+
+# Contribution to the Future LinkedIn Playbook
+
+Katelyn Bourgoin contributes a customer-first perspective to LinkedIn Organic Strategy by demonstrating how buyer psychology influences messaging, positioning, and content performance. Her work reinforces that sustainable LinkedIn growth comes from understanding customer motivations, publishing educational insights, and consistently helping audiences solve meaningful problems rather than relying on promotional messaging.
+
+---
+
+# Overall Assessment
+
+Katelyn Bourgoin's LinkedIn presence demonstrates that successful B2B SaaS marketing begins with understanding human behavior rather than chasing marketing tactics. Her combination of behavioral science, customer research, and practical storytelling provides a strong foundation for developing audience-focused LinkedIn content that builds trust, improves messaging, and supports long-term business growth.

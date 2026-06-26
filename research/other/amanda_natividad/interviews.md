@@ -1,12 +1,25 @@
-# Amanda Natividad - Interviews
+# Amanda Natividad – Interviews
 
-Collection date: 2026-06-26
+**Collection Date:** 26 June 2026
 
-Only verified public resources are included. Publication dates are marked as not stated when the source page or public metadata did not expose a reliable date.
+Only verified public resources are included.
 
-## Amanda Natividad: zero-click content interviews and talks
+---
 
-- URL: https://www.youtube.com/results?search_query=Amanda+Natividad+zero-click+content
-- Publication Date: 2026-06-26 search result
-- Why this resource is valuable: Public YouTube search used to locate interviews and talks.
-- Key Insight: The zero-click concept is directly applicable to LinkedIn carousels, posts, and comments.
+## 1. Zero Click Marketing Podcast
+
+**URL**
+
+https://youtube.com/playlist?list=PLhm-o-a72T295jrL_jlnvk22W4Xul2PNc&si=c0JOHMPt6BUumshy
+
+**Publication Date**
+
+June 2026 (Playlist active; latest episodes published June 2026)
+
+### Why This Resource Is Valuable
+
+This is Amanda Natividad's official **Zero Click Marketing** podcast playlist. The series features Amanda's discussions on zero-click marketing, AI search, audience research, content strategy, and brand building, along with interviews featuring marketers and founders applying these concepts in practice. As an official resource, it provides direct insight into her evolving frameworks and marketing philosophy.
+
+### Key Insight
+
+The central principle of zero-click marketing is to create complete, valuable content where audiences already spend their time instead of forcing every interaction to result in a website visit. By consistently educating buyers on platforms like LinkedIn, companies build trust, authority, and long-term demand that eventually translates into business growth.
