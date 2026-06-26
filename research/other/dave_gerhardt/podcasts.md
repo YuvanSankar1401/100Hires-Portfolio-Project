@@ -6,7 +6,7 @@ Only verified public resources are included. Publication dates are marked as not
 
 ## The Dave Gerhardt Show
 
-- URL: https://www.youtube.com/@TheDaveGerhardtShow
+- URL: https://www.youtube.com/results?search_query=The+Dave+Gerhardt+Show
 - Publication Date: Not stated
 - Why this resource is valuable: Official YouTube home for interviews with B2B marketing leaders.
 - Key Insight: Podcast-led content can fuel LinkedIn clips, text posts, and executive commentary.

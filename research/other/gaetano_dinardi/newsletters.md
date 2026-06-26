@@ -6,7 +6,7 @@ Only verified public resources are included. Publication dates are marked as not
 
 ## Gaetano DiNardi official publishing hub
 
-- URL: https://www.gaetanodinardi.com/
+- URL: Not publicly verified
 - Publication Date: Not stated
 - Why this resource is valuable: Official site used as the verified owned media source.
 - Key Insight: When a separate newsletter archive is not public, the official site remains the safest source.

@@ -6,7 +6,7 @@ Only verified public resources are included. Publication dates are marked as not
 
 ## Gaetano DiNardi official site
 
-- URL: https://www.gaetanodinardi.com/
+- URL: Not publicly verified
 - Publication Date: Not stated
 - Why this resource is valuable: Official hub for advisory work and marketing perspectives.
 - Key Insight: Operator experience keeps content strategy tied to revenue reality.

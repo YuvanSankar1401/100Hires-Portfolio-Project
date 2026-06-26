@@ -38,7 +38,7 @@ Natividad connects audience research with platform-native publishing, which is c
 - Company: Exit Five
 - Official LinkedIn: https://www.linkedin.com/in/davegerhardt/
 - Official Website: https://www.davegerhardt.com/
-- Official YouTube: https://www.youtube.com/@TheDaveGerhardtShow
+- Official YouTube: https://www.youtube.com/results?search_query=The+Dave+Gerhardt+Show
 - Newsletter: https://www.exitfive.com/newsletter
 - Collection Date: 2026-06-26
 
@@ -121,9 +121,9 @@ Dunford is essential because strong LinkedIn content depends on clear positionin
 - Current Role: Growth advisor and B2B marketing operator
 - Company: Gaetano DiNardi / advisory work
 - Official LinkedIn: https://www.linkedin.com/in/gaetanodinardi/
-- Official Website: https://www.gaetanodinardi.com/
+- Official Website: Not publicly verified
 - Official YouTube: https://www.youtube.com/results?search_query=Gaetano+DiNardi
-- Newsletter: https://www.gaetanodinardi.com/
+- Newsletter: Not publicly verified
 - Collection Date: 2026-06-26
 
 ### Professional Annotation
