@@ -10,8 +10,6 @@ This file records the expert set, official public source locations, and the rati
 - Company: Justin Welsh / The Saturday Solopreneur
 - Official LinkedIn: https://www.linkedin.com/in/justinwelsh/
 - Official Website: https://www.justinwelsh.me/
-- Official YouTube: https://www.youtube.com/results?search_query=Justin+Welsh
-- Newsletter: https://www.justinwelsh.me/newsletter
 - Collection Date: 2026-06-26
 
 ### Professional Annotation
@@ -24,8 +22,7 @@ Welsh is a primary case study for turning LinkedIn publishing into a durable B2B
 - Company: SparkToro
 - Official LinkedIn: https://www.linkedin.com/in/amandanat/
 - Official Website: https://amandanat.com/
-- Official YouTube: https://www.youtube.com/@amandanat
-- Newsletter: https://sparktoro.com/blog/author/amanda/
+- Newsletter: https://sparktoro.com/blog/when-your-audience-isnt-who-you-think-they-are/
 - Collection Date: 2026-06-26
 
 ### Professional Annotation
@@ -37,7 +34,6 @@ Natividad connects audience research with platform-native publishing, which is c
 - Current Role: Founder
 - Company: Exit Five
 - Official LinkedIn: https://www.linkedin.com/in/davegerhardt/
-- Official Website: https://www.davegerhardt.com/
 - Official YouTube: https://www.youtube.com/results?search_query=The+Dave+Gerhardt+Show
 - Newsletter: https://www.exitfive.com/newsletter
 - Collection Date: 2026-06-26
@@ -52,7 +48,7 @@ Gerhardt is a useful case study for executive voice, community building, and rep
 - Company: Foundation Marketing and Distribution.ai
 - Official LinkedIn: https://www.linkedin.com/in/rosssimmonds/
 - Official Website: https://rosssimmonds.com/
-- Official YouTube: https://www.youtube.com/@RossSimmonds
+- Official YouTube: https://www.youtube.com/@RossSimmondsTV/videos
 - Newsletter: https://rosssimmonds.com/newsletter/
 - Collection Date: 2026-06-26
 
@@ -66,7 +62,6 @@ Simmonds provides the strongest distribution lens: create once, distribute forev
 - Company: Growth Memo
 - Official LinkedIn: https://www.linkedin.com/in/kevinindig/
 - Official Website: https://www.kevin-indig.com/
-- Official YouTube: https://www.youtube.com/results?search_query=Kevin+Indig
 - Newsletter: https://www.growth-memo.com/
 - Collection Date: 2026-06-26
 
@@ -80,8 +75,7 @@ Indig adds analytical rigor around search demand, organic growth loops, and AI-e
 - Company: SparkToro
 - Official LinkedIn: https://www.linkedin.com/in/randfishkin/
 - Official Website: https://sparktoro.com/team/rand
-- Official YouTube: https://www.youtube.com/results?search_query=Rand+Fishkin
-- Newsletter: https://sparktoro.com/blog/
+- Newsletter: https://sparktoro.com/blog/total-addressable-market-tam-size-is-now-in-sparktoro-reports/
 - Collection Date: 2026-06-26
 
 ### Professional Annotation
@@ -94,7 +88,6 @@ Fishkin supplies the audience-research foundation for deciding what to publish a
 - Company: Wynter
 - Official LinkedIn: https://www.linkedin.com/in/peeplaja/
 - Official Website: https://peeplaja.com/
-- Official YouTube: https://www.youtube.com/results?search_query=Peep+Laja
 - Newsletter: https://wynter.com/blog/
 - Collection Date: 2026-06-26
 
@@ -108,7 +101,7 @@ Laja brings message testing and conversion research, which prevent LinkedIn cont
 - Company: Ambient Strategy
 - Official LinkedIn: https://www.linkedin.com/in/aprildunford/
 - Official Website: https://www.aprildunford.com/
-- Official YouTube: https://www.youtube.com/results?search_query=April+Dunford
+- Official YouTube: https://www.youtube.com/@positioningshow
 - Newsletter: https://www.aprildunford.com/newsletter
 - Collection Date: 2026-06-26
 
@@ -120,10 +113,6 @@ Dunford is essential because strong LinkedIn content depends on clear positionin
 
 - Current Role: Growth advisor and B2B marketing operator
 - Company: Gaetano DiNardi / advisory work
-- Official LinkedIn: https://www.linkedin.com/in/gaetanodinardi/
-- Official Website: Not publicly verified
-- Official YouTube: https://www.youtube.com/results?search_query=Gaetano+DiNardi
-- Newsletter: Not publicly verified
 - Collection Date: 2026-06-26
 
 ### Professional Annotation
@@ -134,9 +123,8 @@ DiNardi adds operator-level lessons on connecting organic content to pipeline, h
 
 - Current Role: Founder and buyer psychology researcher
 - Company: Customer Camp / Why We Buy
-- Official LinkedIn: https://www.linkedin.com/in/katelynbourgoin/
-- Official Website: https://customercamp.co/
-- Official YouTube: https://www.youtube.com/results?search_query=Katelyn+Bourgoin
+- Official LinkedIn: https://www.linkedin.com/in/katebour/
+- Official Website: https://learnwhywebuy.com/
 - Newsletter: https://customercamp.co/newsletter/
 - Collection Date: 2026-06-26
 
